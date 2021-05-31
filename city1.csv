@@ -1,0 +1,16 @@
+code,name,continent, Surface Area, population, IsCapital
+1,Cairo,Africa, 12000 ,1000000 , 1
+1,Giza,Africa, 11000, 910000 , 0
+1,Ismailia,Africa, 12222 , 81000 , 0
+1,Luxor,Africa, 5222 , 93000 , 0 
+1,Minya,Africa, 4145 , 8500 , 0
+1,Alex,Africa, 7000 , 7200 , 0
+1,El Arish,Africa, 8444 , 6100 , 0
+2,Asmara,Africa, 9212 , 50000 , 0
+2,Keren,Africa, 9343 , 4500 , 0
+2,Teseney,Africa, 1999 , 57000 , 1
+2,Mendefera,Africa, 2888 , 66000 , 0
+2,Agordat,Africa, 3000 , 7100 , 0
+3,Hong Kong,Asia, 40000 , 45000 , 1
+3,Macau,Asia, 44000 , 50300 , 0
+3,Beijing,Asia, 8000 , 55000 , 0
